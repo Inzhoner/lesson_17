@@ -1,0 +1,13 @@
+:root {
+    --color-dark: #2b2929;
+    --color-grey: #535353;
+    --color-grey-light: #B1B1B1;
+    --color-light: #f8f8f8;
+    --color-light-bg: #ffffff;
+    --color-yellow: #ffbc57;
+
+    --font-wight-semibold: 600;
+    --font-wight-light: 300;
+
+    --font-family-base: 'Proxima Nova', sans-serif;
+}
