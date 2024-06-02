@@ -231,3 +231,10 @@ a.photo-card__link {
 .icon-container__cart:hover {
     transform: scale(1.09);
 }
+
+/*+ Style */
+.style {
+    border-radius: 40px;
+    background: #f0f0f0;
+    padding: 70px 64px;
+}
